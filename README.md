@@ -30,7 +30,7 @@
 
 ![4](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/4.png)
 
-6、复制下面的代码替换现有的代码。
+6、复制下面的代码替换现有的代码。 
 ```bash
 function autoReplier() {
   var labelObj = GmailApp.getUserLabelByName('autoreply');
